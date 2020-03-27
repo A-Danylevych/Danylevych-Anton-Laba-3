@@ -1,0 +1,10 @@
+C:\Users\anton\source\repos\OP2.3\OP2.3\bin\Debug\OP2.3.exe.config
+C:\Users\anton\source\repos\OP2.3\OP2.3\bin\Debug\OP2.3.exe
+C:\Users\anton\source\repos\OP2.3\OP2.3\bin\Debug\OP2.3.pdb
+C:\Users\anton\source\repos\OP2.3\OP2.3\obj\Debug\OP2.3.csprojAssemblyReference.cache
+C:\Users\anton\source\repos\OP2.3\OP2.3\obj\Debug\OP2.3.exe
+C:\Users\anton\source\repos\OP2.3\OP2.3\obj\Debug\OP2.3.pdb
+C:\Users\anton\source\repos\OP2.3\OP2.3\bin\Debug\System.Json.dll
+C:\Users\anton\source\repos\OP2.3\OP2.3\bin\Debug\System.Json.xml
+C:\Users\anton\source\repos\OP2.3\OP2.3\obj\Debug\OP2.3.csproj.CopyComplete
+C:\Users\anton\source\repos\OP2.3\OP2.3\obj\Debug\OP2.3.csproj.CoreCompileInputs.cache
